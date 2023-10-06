@@ -1,6 +1,6 @@
 # Hi there, I'm Sahan! 👋
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=KATTASAHAN&show_icons=true&border_color=2f81f7&title_color=2f81f7&bg_color=0d111700&icon_color=2f81f7&text_color=2f81f7&border_radius=10&text_bold=false&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KATTASAHAN&show_icons=true&border_color=2f81f7&title_color=2f81f7&bg_color=0d111700&icon_color=2f81f7&text_color=2f81f7&border_radius=10&text_bold=false&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATTASAHAN&layout=compact&border_color=2f81f7&title_color=2f81f7&bg_color=0d111700&text_color=2f81f7&border_radius=10&text_bold=false&hide_border=true" />
 
